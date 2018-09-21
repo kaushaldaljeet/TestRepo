@@ -20,6 +20,7 @@ The application is developed using Java, Maven and IntelliJ IDE.
 Cd to the directory where the project is and enter the following commands:
 1. mvn package
 2. java -cp target/TicketService-1.0-SNAPSHOT.jar com.walmart.ticketservice.Driver 
+
    This command will execute the main method inside Driver.java file where I have written one start-to-end flow.
 
 
