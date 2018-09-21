@@ -17,6 +17,8 @@ The application is developed using Java, Maven and IntelliJ IDE.
 
 
 # Building Project
+1. Cd to the directory where the project is.
+
 
 # Test Results
 Test cases are written using JUnit.
