@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.walmart.ticketservice.TicketServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.998 sec - in com.walmart.ticketservice.TicketServiceTest
