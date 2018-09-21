@@ -18,6 +18,8 @@ The application is developed using Java, Maven and IntelliJ IDE.
 
 # Building Project
 1. Cd to the directory where the project is.
+2. mvn package
+3. java -jar TicketService-1.0-SNAPSHOT.jar
 
 
 # Test Results
